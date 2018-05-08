@@ -1,0 +1,371 @@
+[Root]
+Most Recent Package=Standard Setup Package 2
+
+[Package|Mailbox|Mailbox]
+Icon1=Mailbox.exe
+Title1=Mailbox
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\y\yae
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\unzip32.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\projects\yae.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\unzip32.dll=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\Ohjelmatiedostot\Yhteiset tiedostot\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJET35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=Yes
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=Yes
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=Yes
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\VB5DB.DLL=Yes
+C:\WINDOWS\SYSTEM\COMCT232.OCX=Yes
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\projects\yae.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\unzip32.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\Ohjelmatiedostot\Yhteiset tiedostot\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCT232.OCX=$(WinSysPath)
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\projects\yae.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=multi
+Size=1.44 MB
+Title=Yet Another Etälukija
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=True
+Parent0=
+
+[Package|Standard Setup Package 1|$(Programs)]
+Icon1=yae.exe
+Title1=Yet Another Etälukija
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=d:\y\yae
+ProjectFolder=C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\projects\Mailbox 32
+ServerSideCab=
+File1=d:\y\yae\setup.exe
+File2=d:\y\yae\Setup.Lst
+File3=d:\y\yae\yae1.CAB
+File4=d:\y\yae\yae2.CAB
+File5=d:\y\yae\yae3.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+
+[Package|Mailbox|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\y\yae
+
+[Package|Mailbox|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=No
+
+[Package|Mailbox|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Mailbox|Files Found]
+unzip32.dll=C:\WINDOWS\SYSTEM\unzip32.dll
+
+[Package|Mailbox|Files Released]
+
+[Package|Mailbox|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\unzip32.dll=
+
+[Package|Mailbox|Out-of-Date Dependency Information]
+
+[Package|Mailbox|Files Added]
+
+[Package|Mailbox|Files Removed]
+
+[Package|Mailbox|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\unzip32.dll=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\Ohjelmatiedostot\Yhteiset tiedostot\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJET35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=Yes
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=Yes
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=Yes
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\VB5DB.DLL=Yes
+C:\WINDOWS\SYSTEM\COMCT232.OCX=Yes
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\projects\yae.exe=Yes
+
+[Package|Mailbox|Configure Registry Files]
+Applicable=No
+
+[Package|Mailbox|Configure Remote Servers]
+Applicable=No
+
+[Package|Mailbox|Install Locations]
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\projects\Mailbox.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\unzip32.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\Ohjelmatiedostot\Yhteiset tiedostot\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCT232.OCX=$(WinSysPath)
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\projects\yae.exe=$(AppPath)
+
+[Package|Mailbox|Configure Shared Files]
+Applicable=Yes
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\projects\Mailbox.exe=No
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\projects\yae.exe=No
+
+[Package|Mailbox|Distribution]
+Type=single
+Size=1.44 MB
+Title=Yet Another Etälukija
+
+[Package|Mailbox|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=True
+Parent0=
+
+[Package|Mailbox|$(Programs)]
+Icon1=yae.exe
+Title1=Yet Another Etälukija
+StartIn1=$(AppPath)
+Key1=Icon2
+
+[Package|Mailbox|Package]
+PackageFolder=d:\y\yae
+ProjectFolder=C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\projects\Mailbox 32
+ServerSideCab=
+File1=d:\y\yae\setup.exe
+File2=d:\y\yae\Setup.Lst
+File3=d:\y\yae\yae.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\temp\yae
+
+[Package|Standard Setup Package 2|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=No
+
+[Package|Standard Setup Package 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 2|Files Found]
+
+[Package|Standard Setup Package 2|Files Released]
+
+[Package|Standard Setup Package 2|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\zip32.dll=
+C:\WINDOWS\SYSTEM\unzip32.dll=
+
+[Package|Standard Setup Package 2|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 2|Files Added]
+D:\temp\yae\y2kqwk3.zip=
+
+[Package|Standard Setup Package 2|Files Removed]
+c:\windows\system\comct232.ocx=
+c:\windows\system\comctl32.ocx=
+c:\windows\system\comdlg32.ocx=
+c:\ohjelmatiedostot\yhteiset tiedostot\microsoft shared\dao\dao350.dll=
+c:\windows\system\expsrv.dll=
+c:\windows\system\msjet35.dll=
+c:\windows\system\msjint35.dll=
+c:\windows\system\msjter35.dll=
+c:\windows\system\msrepl35.dll=
+c:\windows\system\msrd2x35.dll=
+c:\ohjelmatiedostot\microsoft visual studio\vb98\wizards\pdwizard\redist\msvcrt40.dll=
+c:\windows\system\vb5db.dll=
+c:\windows\system\msvbvm60.dll=
+c:\windows\system\oleaut32.dll=
+c:\windows\system\olepro32.dll=
+c:\windows\system\asycfilt.dll=
+c:\windows\system\stdole2.tlb=
+c:\ohjelmatiedostot\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\windows\system\vbajet32.dll=
+d:\temp\yae\y2kqwk3.zip=
+c:\windows\system\zip32.dll=
+
+[Package|Standard Setup Package 2|Files In Project]
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\projects\yae.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=No
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=No
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=No
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=No
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=No
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINDOWS\SYSTEM\unzip32.dll=Yes
+C:\WINDOWS\SYSTEM\zip32.dll=No
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=No
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=No
+C:\Ohjelmatiedostot\Yhteiset tiedostot\Microsoft Shared\DAO\DAO350.DLL=No
+C:\WINDOWS\SYSTEM\MSJET35.DLL=No
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=No
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=No
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=No
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=No
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=No
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=No
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=No
+C:\WINDOWS\SYSTEM\VB5DB.DLL=No
+C:\WINDOWS\SYSTEM\COMCT232.OCX=No
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\temp\yae\y2kqwk3.zip=No
+
+[Package|Standard Setup Package 2|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2|Install Locations]
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\projects\yae.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\unzip32.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\zip32.dll=$(WinSysPath)
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\temp\yae\y2kqwk3.zip=$(AppPath)
+
+[Package|Standard Setup Package 2|Configure Shared Files]
+Applicable=Yes
+C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\projects\yae.exe=No
+D:\temp\yae\y2kqwk3.zip=No
+
+[Package|Standard Setup Package 2|Distribution]
+Type=single
+Size=
+Title=Yet Another Etälukija
+
+[Package|Standard Setup Package 2|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=True
+Parent0=
+
+[Package|Standard Setup Package 2|$(Programs)]
+Icon1=yae.exe
+Title1=Yet Another Etälukija
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|Standard Setup Package 2|Package]
+PackageFolder=d:\temp\yae
+ProjectFolder=C:\Ohjelmatiedostot\Microsoft Visual Studio\VB98\projects\Mailbox 32
+ServerSideCab=
+File1=d:\temp\yae\setup.exe
+File2=d:\temp\yae\Setup.Lst
+File3=d:\temp\yae\yae.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

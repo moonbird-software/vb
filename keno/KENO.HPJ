@@ -1,0 +1,15 @@
+[Options]
+Root=c:\vb,c:\ohjelmat\microsof\projects\old
+Citation=Kortti KENO Ohje v0.9.72 - Copyright © 1993-1996 Moonbird Software
+Compress=High
+Contents=TOPIC_INDEX
+Copyright=Copyright © 1993-1996 Moonbird Software
+Errorlog=KENO.ERR
+Optcdrom=Off
+Report=Off
+Title=Kortti KENO Ohje
+Warning=1
+[Files]
+C:\OHJELMAT\MICROSOF\PROJECTS\OLD\KENO.RTF
+[Windows]
+main="Kortti KENO Ohje",,,,,1

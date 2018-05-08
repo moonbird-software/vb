@@ -1,0 +1,26 @@
+[Files]
+File1=C:\VB\GRAPH.VBX
+File2=C:\WINDOWS\SYSTEM\GSWDLL.DLL
+File3=C:\WINDOWS\SYSTEM\GSW.EXE
+File4=C:\VB\THREED.VBX
+File5=C:\VB\INFOKRAT.EXE
+File6=C:\VB\AIHEET.INF
+File7=C:\VB\LEHDET.INF
+File8=C:\VB\NIMET.INF
+File9=C:\VB\UUTISET.INF
+
+[WinFiles]
+File1=GSW.EXE
+
+[Flags]
+AppEXEName=C:\VB\INFOKRAT.EXE
+APPTITLE=INFOKRATIA
+DataControl=0
+OLE=0
+Btrieve=0
+ODBC=0
+DataAccess=0
+VB.Mak Full Path=C:\VB\INFOKRAT.MAK
+VB.Mak Path Only=C:\VB\
+Disk Drive=a:
+Disk Type=1

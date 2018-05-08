@@ -1,0 +1,10 @@
+[OPTIONS]
+TITLE=Herrat & Narrit Ohje
+COPYRIGHT=© 1995 Moonbird Software
+CONTENTS=Sisallys
+ERRORLOG=HJN.ERR
+COMPRESS=TRUE
+oldkeyphrase = false
+
+[FILES]
+HJN.RTF

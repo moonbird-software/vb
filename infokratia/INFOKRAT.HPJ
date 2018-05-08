@@ -1,0 +1,10 @@
+[OPTIONS]
+TITLE=Infokratian Ohje
+COPYRIGHT=© 1995 Moonbird Software
+CONTENTS=Sisallys
+ERRORLOG=INFOKRAT.ERR
+COMPRESS=TRUE
+oldkeyphrase = false
+
+[FILES]
+INFOKRAT.RTF

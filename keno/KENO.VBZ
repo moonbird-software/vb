@@ -1,0 +1,19 @@
+[Files]
+File1=C:\VB\CMDIALOG.VBX
+File2=C:\WINDOWS\SYSTEM\COMMDLG.DLL
+File3=C:\VB\THREED.VBX
+File4=C:\WINDOWS\CARDS.DLL
+File5=C:\VB\KENO.EXE
+
+[Flags]
+AppEXEName=C:\VB\KENO.EXE
+APPTITLE=KORTTI KENO V0.92
+DataControl=0
+OLE=0
+Btrieve=0
+ODBC=0
+DataAccess=0
+VB.Mak Full Path=C:\VB\KENO.MAK
+VB.Mak Path Only=C:\VB\
+Disk Drive=a:
+Disk Type=1
