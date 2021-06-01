@@ -1,0 +1,41 @@
+  ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ
+   Moonbird Softwaren Tuoteluettelo 04/95          (C) 1995 Moonbird Software
+  ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ
+
+        Windows-pelit:
+              ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+              ³ Kortti KENO v0.94     ³ * FreeWare *  ³ KENO094 .ZIP     ³
+              ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+              ³ Kortti KENO on Moonbird Softwaren  p„„projekti  Windows- ³
+              ³ puolella. KENO on simulaatio  RAY:n  kuuluisasta  Kortti ³
+              ³ KENO-pelist„.  Peli on l„hes samanlainen kuin  automaat- ³
+              ³ ti,  grafiikat tosin  eroavat  hieman.  Pelist„  puuttuu ³
+              ³ en„„ ainoastaan digitoidut „„net.  Peli  sis„lt„„ 100 mk ³
+              ³ ja 200 mk automaatit.                                    ³
+              ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+              ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+              ³ Herrat & Narrit v0.992³ * FreeWare *  ³ HJN0992 .ZIP     ³
+              ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+              ³ H&N on k„„nn”s wanhasta kuuluisasta kuusnelosen pelist„. ³
+              ³ Peli sijoittuu keskiaikaan,  ja  tavoitteenasi on nousta ³
+              ³ maan kuninkaaksi. Jokaiselle pelaajalle,  joita voi olla ³
+              ³ jopa 8 kappaletta,  jaetaan oma l„„ni ja nimitet„„n hei- ³
+              ³ d„t voudeiksi. Pelaajat voivat ostaa ja myyd„ viljaa se- ³
+              ³ k„ maata, s„„t„„ veroja ja ostaa kauppahuoneita,  mylly- ³
+              ³ j„,  kirkkoja ym.  My”s sotavoima on  tarpeen maa-alueen ³
+              ³ kasvaessa.  Pelaajat saavat ylennyksi„  johtamistaitonsa ³
+              ³ mukaan ajan my”t„.                                       ³
+              ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+              ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+              ³ Infokratia v1.1       ³ * FreeWare *  ³ INFOK11 .ZIP     ³
+              ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+              ³ Infokratia on my”skin k„„nn”s wanhasta kuusnelospelist„. ³
+              ³ Peli sijoittuu lehdist”maailmaan.  Jokainen jopa kahdek- ³
+              ³ sasta pelaajasta saa ostaa ja myyd„ lehti„,  tutkia  ra- ³
+              ³ portteja ja  galluppeja sek„ tietysti julkaista itse uu- ³
+              ³ tisia.  Peli on ohi, kun hallituksen suosio on  romahta- ³
+              ³ nut. Peli ansaitsee erikoismaininnan siit„, ett„ se toi- ³
+              ³ mii  ketjureaktioperiaatteella.  Jos hallituksen  suosio ³
+              ³ alkaa laskea,  kansalaiset reagoivat siihen mellakoimal- ³
+              ³ la.                                                      ³
+              ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
