@@ -1,0 +1,77 @@
+
+
+
+			Kortti KENO v0.9.71
+			
+
+			16-bittinen versio
+			(Windows 3.1, 3.11)
+			optimoitu Win95:lle
+
+
+0. Tietoja
+
+	Peliformaatti:	Copyright © Raha-automaattiyhdistys 1988
+	Windows-versio:	Copyright © Moonbird Software 1992-1996
+
+	Kortti KENO on vapaasti levitettävissä oleva freeware-ohjelma.
+
+
+1. Yleistä
+
+	Kortti KENO v0.97 on 16-bittisille Windows-käyttöjärjestelmille
+	tarkoitettu versio, mutta se on optimoitu Windows 95:ttä varten.
+	Ohjelman ulkoasu saattaa vaikuttaa oudolta Windows 3.1/3.11:stä	käytettäessä.
+	Ohjelman ajamiseen tarvitaan Visual Basic 3.0:n ajonaikainen
+	kirjasto. (VBRUN300.DLL, MBnet: PC-Windows\VBRUN301.EXE)
+
+	Suosituskokoonpano Kortti KENOn pelaamiseen on Windows 95, 
+	Pentium-prosessorilla varustettu kone ja Windows-kiihdytetty
+	PCI-näytönohjain.
+
+	Pelin ohjelmoija on tavoitettavissa MBnetissä. Kaikki kommentit
+	ja muut viestit tulee lähettää yksityispostina.
+
+
+A. Versiohistoria
+
+	Versio 0.9.4
+	- ensimmäinen julkaistu versio
+
+	Versio 0.9.5
+	- kaikki tarvittavat tiedostot mukana paketissa
+	- korjattu bugi, joka aiheutti jokerin näyttämisen tuplauksessa 7:n sijaan
+	- lisätty tuplaukseen pieni/suuri-nappien vuorottelu
+	- lisätty osuneiden korttien päälle tuleva RAY-symboli
+	- korjattu muutamia kosmeettisia virheitä
+
+	Versio 0.9.6
+	- korjattu lukuisia jokeriin liittyviä bugeja
+	- korjattu lukuisia muita bugeja
+	- muutettu ohjelmarunkoa radikaalisti
+	- lisätty Toiminnot-valikko
+	- asetettu funktionäppäimille toiminnot
+	- poistettu äänet
+
+	Versio 0.9.61
+	- korjattu OUT OF RANGE-virhe
+
+	Versio 0.9.7
+	- poistettu turhia toimintoja
+	- erilliset tuloslistat 100 mk ja 200 mk peleille
+	- uudet kortit
+	- nopeampi korttien valinta
+	- peliohje
+	- Windows 95-optimoitu versio
+
+	Versio 0.9.71
+	- RAY-logo ilmestyy nyt oikean kortin päälle
+	- korttien lajittelu korjattu
+	- jaettujen korttien kulmissa ei enää mustaa aluetta
+	- ei voi pelata voittoja miinuksen puolelle
+	- lisätty MIDI-musiikki ja kosahdusääni
+	- lisätty salasanoja
+
+	Tulossa
+	- korttien valinta näppäimistöltä
+	- 32-bittinen Windows 95-versio
